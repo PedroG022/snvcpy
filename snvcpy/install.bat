@@ -13,7 +13,7 @@ echo Excluding residual files...
 del scrcpy-win64-v1.17.zip
 del sndcpy-v1.0.zip
 copy "modfiles" "scrcpy-sndcpy-autoadb" /Y
-@RD /Q "modfiles"
+@RD /S /Q "modfiles"
 echo Job done.
 echo You can delete this script now.
 pause
