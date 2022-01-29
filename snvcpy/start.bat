@@ -1,3 +1,3 @@
 @echo off
-cd scrcpy-sndcpy-autoadb
+cd auto
 start autoadb-noconsole.vbs

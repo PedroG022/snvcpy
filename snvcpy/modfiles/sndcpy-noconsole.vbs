@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run "cmd /c sndcpy.bat", 0, false

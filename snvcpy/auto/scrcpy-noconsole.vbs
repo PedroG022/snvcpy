@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "cmd /c cd .. & cd scrcpy & scrcpy.exe", 0, false

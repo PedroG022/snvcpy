@@ -1,1 +1,0 @@
-CreateObject("Wscript.Shell").Run "cmd /c autoadb.exe scrcpy-sndcpy-noconsole.bat", 0, false
